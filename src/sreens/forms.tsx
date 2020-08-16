@@ -143,7 +143,7 @@ const  Forms :  React.FC<any> = ({
           
           </form>}
         </Modal>
-          <h1  className="hidden-sm-down" style={{fontSize:75}}> g Quiz Prepration</h1>
+          <h1  className="hidden-sm-down" style={{fontSize:75}}>  Quiz Prepration</h1>
           <h4 style={{color:"red"}}>we are prepare Quiz for your Prepration</h4>
           <br/>
           <button onClick={openModal}  className="btn-primary"  style={{ backgroundColor:"#33ccff" , border:" 2px solidpink"}}>  Start Quiz </button>
